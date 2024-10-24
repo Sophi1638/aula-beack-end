@@ -1,0 +1,14 @@
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\bin\Debug\net8.0\AtividadeProduto.exe
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\bin\Debug\net8.0\AtividadeProduto.deps.json
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\bin\Debug\net8.0\AtividadeProduto.runtimeconfig.json
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\bin\Debug\net8.0\AtividadeProduto.dll
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\bin\Debug\net8.0\AtividadeProduto.pdb
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\obj\Debug\net8.0\AtividadeProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\obj\Debug\net8.0\AtividadeProduto.AssemblyInfoInputs.cache
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\obj\Debug\net8.0\AtividadeProduto.AssemblyInfo.cs
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\obj\Debug\net8.0\AtividadeProduto.csproj.CoreCompileInputs.cache
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\obj\Debug\net8.0\AtividadeProduto.dll
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\obj\Debug\net8.0\refint\AtividadeProduto.dll
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\obj\Debug\net8.0\AtividadeProduto.pdb
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\obj\Debug\net8.0\AtividadeProduto.genruntimeconfig.cache
+C:\Users\44098786893\Desktop\aula-beckend\AtividadeProduto\obj\Debug\net8.0\ref\AtividadeProduto.dll

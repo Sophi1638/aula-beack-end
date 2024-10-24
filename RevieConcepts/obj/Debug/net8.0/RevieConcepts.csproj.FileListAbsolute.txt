@@ -1,0 +1,14 @@
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\bin\Debug\net8.0\RevieConcepts.exe
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\bin\Debug\net8.0\RevieConcepts.deps.json
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\bin\Debug\net8.0\RevieConcepts.runtimeconfig.json
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\bin\Debug\net8.0\RevieConcepts.dll
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\bin\Debug\net8.0\RevieConcepts.pdb
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\obj\Debug\net8.0\RevieConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\obj\Debug\net8.0\RevieConcepts.AssemblyInfoInputs.cache
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\obj\Debug\net8.0\RevieConcepts.AssemblyInfo.cs
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\obj\Debug\net8.0\RevieConcepts.csproj.CoreCompileInputs.cache
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\obj\Debug\net8.0\RevieConcepts.dll
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\obj\Debug\net8.0\refint\RevieConcepts.dll
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\obj\Debug\net8.0\RevieConcepts.pdb
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\obj\Debug\net8.0\RevieConcepts.genruntimeconfig.cache
+C:\Users\44098786893\Desktop\aula-beckend\RevieConcepts\obj\Debug\net8.0\ref\RevieConcepts.dll
